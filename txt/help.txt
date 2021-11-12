@@ -1,0 +1,12 @@
+╭──────────────────────────────────────────────────────────────────╮
+│ HELP          | Will load this menu                              │
+│ MODARP        | Will load the Address Resolution Module          │
+│ IFLO          | Will get you're Interfaces and Addresses         │
+│ NETIP         | Will Get you're private and Public IPA           │
+│ CLEAR/CLS     | Clear the screen                                 │
+│ EXIT          | will exit the program                            │
+│ MODPORT       | will scan the given host specified with -t       │
+│ COREUSE       | see the current CPU the tool or script is using  │
+│ WHOAMI        | see who you are                                  │
+│ STATS         | will gather ALL system stats within a few seconds│
+╰──────────────────────────────────────────────────────────────────╯	
